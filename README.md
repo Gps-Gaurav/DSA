@@ -1,2 +1,2 @@
-# c-
-basic to advanced
+# c++
+basic to advanced DSA
