@@ -7,6 +7,6 @@ int main(){
         for(j=0;j<5-i;j++){
             cout<<j+1;
         }
-        cout<<endl;
+        COUT<<endl;
     }
 }
